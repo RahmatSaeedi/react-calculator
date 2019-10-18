@@ -1,0 +1,48 @@
+{
+  "name": "calculator",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "3.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "A react calculator app",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmatSaeedi/calculator.git"
+  },
+  "keywords": [
+    "react",
+    "calculator"
+  ],
+  "author": "Rahmat Saeedi",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/RahmatSaeedi/calculator/issues"
+  },
+  "homepage": "https://github.com/RahmatSaeedi/calculator#readme"
+}
