@@ -1,7 +1,7 @@
 # calculator
-A react calculator app
+A simple react calculator app
 
-
+![Exhibit](docs/exhibit.gif)
 
 # Getting Started
 1. Install using the `npm install` command.
