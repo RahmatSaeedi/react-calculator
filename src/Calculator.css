@@ -12,7 +12,16 @@ input.result {
   float: right;
   background-color: #FFF;
   border: none;
-  font-size: 30px;
+  font-size: 2rem;
   text-align: right;
   color: #000;
+}
+
+div.previous{
+  position: absolute;
+  right: 75px;
+  z-index: 99;
+  top: 25px;
+  color: #777;
+  font-size: 1.2rem;
 }

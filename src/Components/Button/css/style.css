@@ -4,7 +4,7 @@ button.calc-btn {
   padding: 0;
   background-color: #EEE;
   border: 1px solid #DDD;
-  font-size: 30px;
+  font-size: 2rem;
   color: #000;
 }
 button.calc-btn:hover {
